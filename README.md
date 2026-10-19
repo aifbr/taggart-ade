@@ -1,4 +1,7 @@
-# Taggart
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/taggart-lockup-on-dark.svg">
+  <img alt="Taggart" src="brand/taggart-lockup-on-light.svg" width="280">
+</picture>
 
 **Qualquer agente, harness original.**
 
