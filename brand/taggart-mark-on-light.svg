@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Taggart"><title>Taggart</title>
+  <line x1="43.7" y1="38" x2="56.3" y2="38" stroke="#8b452f" stroke-width="2"/>
+  <line x1="40.3" y1="48" x2="59.7" y2="48" stroke="#8b452f" stroke-width="3"/>
+  <line x1="35.7" y1="62" x2="64.3" y2="62" stroke="#8b452f" stroke-width="4"/>
+  <line x1="29.4" y1="82" x2="70.6" y2="82" stroke="#8b452f" stroke-width="5.5"/>
+  <path d="M48.5 30L30 92M51.5 30L70 92" stroke="#1d1e1d" stroke-width="4.5" fill="none"/>
+  <rect x="14" y="22" width="72" height="8" rx="2" fill="#1d1e1d"/>
+</svg>
